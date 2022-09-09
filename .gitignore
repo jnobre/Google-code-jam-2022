@@ -1,7 +1,4 @@
-*
-!/**/
-!*.*
-!Makefile
+.DS_Store
 
 # IDEs
 .idea
